@@ -22,7 +22,7 @@ body {
 }
 
 .is-sparta {
-    color: #e8344e important;
+    color: #e8344e !important;
 }
 
 .button.is-sparta {
